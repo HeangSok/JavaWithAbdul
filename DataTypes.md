@@ -13,3 +13,7 @@
 | boolean | 1 bit | true/false | false |
 
 - 
+
+
+**Literals**: are constant values that are used in a program.
+![image](https://user-images.githubusercontent.com/77439221/213274575-376f7023-c73a-40cb-97e8-6d3c3565cd99.png)
