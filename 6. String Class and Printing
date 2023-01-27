@@ -1,5 +1,0 @@
-System.out.print() // will print only
-System.out.println() // will print and move cursor to the next line
-System.out.printf() // 
-System.out.format() //
-
